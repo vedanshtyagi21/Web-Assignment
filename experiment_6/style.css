@@ -1,0 +1,38 @@
+body{
+    
+    background-color: aliceblue;
+    text-align: center;}    
+
+    h1{
+    color: black;    
+     margin-bottom: 30px;   
+    }
+
+.product-box{
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 2px gray;
+    border-radius: 8px;
+}
+.product-box img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.description{
+    color: dimgray;
+    font-size: 14px;
+    margin: 10px 0;
+}
+.price{
+    color: rgb(245, 6, 6);
+    font-size: 19px;
+}
+.button{
+    background-color: blue;
+    border-radius:2px;
+    border-color: black;
+    color: white;
+}
